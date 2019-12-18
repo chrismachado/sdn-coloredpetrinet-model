@@ -31,4 +31,19 @@ features with this base model.
 ## Running Scenario
 To do this open file finalwork.cpn on _cpn/model/finalwork.cpn_. Something like [this](https://drive.google.com/file/d/176YVVT89E80Ha6WBVOV9UTu6ioPYaNH0/view?usp=sharing) should be the result when you've oppened.
 Then you will need to start two Java classes, *RunnerMain* and *UserActionMain*.
+After run UserActionMain you should give the IP address that will be used in your action like this then press Enter.
 
+![iptype](images/iptypeaction.png)
+
+Then, you should execute the transition *T_UserAction*.
+
+![useract](images/tuserac.png)
+
+So, you now need to choose an action to do only by typing **1** or **2**.
+
+![tyact](images/typact.png)
+
+After do this, this runner can be closed. Now, you will need to run RunnerMain and execute the transition *R_NetDevInfor*
+ and so on with the others. These steps are very similar, so I won't replicate them.
+ 
+![netdev](images/netdevinfor.png) ![console](images/consolerunner.png)
