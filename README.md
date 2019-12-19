@@ -47,3 +47,16 @@ After do this, this runner can be closed. Now, you will need to run RunnerMain a
  and so on with the others. These steps are very similar, so I won't replicate them.
  
 ![netdev](images/netdevinfor.png) ![console](images/consolerunner.png)
+
+Finally, if you've done all steps correctly, something like this should happen:
+
+![dropdata](images/dropdata.png)
+
+After that, you just need to activate the sequential transitions, and that is all.
+
+
+## Author
+- **Christiano Machado** @ christianomachado10@gmail.com
+
+## Acknowledgments
+- I'd like to thank *Corneli Gomes Furtado Júnior* for giving the opportunity to participate in the Hybrid Systems Modeling course.
