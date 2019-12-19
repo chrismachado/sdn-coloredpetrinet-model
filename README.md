@@ -59,4 +59,4 @@ After that, you just need to activate the sequential transitions, and that is al
 - **Christiano Machado** @ christianomachado10@gmail.com
 
 ## Acknowledgments
-- I'd like to thank *Corneli Gomes Furtado Júnior* for giving the opportunity to participate in the Hybrid Systems Modeling course.
+- I'd like to thank [*Corneli Gomes Furtado Júnior*](http://lattes.cnpq.br/4076614375824539) for giving the opportunity to participate in the Hybrid Systems Modeling course.
